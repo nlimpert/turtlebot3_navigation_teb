@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>turtlebot3_navigation_teb</name>
+  <version>0.0.0</version>
+  <description>move_base configuration to be used with Turtlebot3 Waffle using global_planner and teb_local_planner</description>
+  <maintainer email="nlimpert@todo.todo">nlimpert</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>global_planner</depend>
+  <depend>move_base</depend>
+  <depend>teb_local_planner</depend>
+
+  <export>
+
+  </export>
+</package>
